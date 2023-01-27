@@ -24,7 +24,7 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 |**(2006) Gedo Senki**||||||
 |**(2008) Gake no Ue no Ponyo**||||||
 |**(2010) Karigurashi no Arrietty**|1080p|All lines|Minor|||
-|**(2011) Kokuriko-zaka Kara**|1038p|All lines|Median|Eagle (TS), THORa (TS)||
+|**(2011) Kokuriko-zaka Kara**|1038p|All lines|Median|Eagle (TS), THORA (TS)||
 |**(2013) Kaze Tachinu**||||||
 |**(2013) Kaguya-hime no Monogatari**||||||
 |**(2014) Omoide no Marnie**|1080p|Modified from Netflix|Major|||
