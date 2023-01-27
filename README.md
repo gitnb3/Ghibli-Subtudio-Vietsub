@@ -3,7 +3,7 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 
 # Movies List
 
-|**Movie**|**Resolution**|**Translation**|**Typesetting**|**Note**|**Thanks to**|
+|**Movie**|**Resolution**|**Translation**|**Typesetting**|**Thanks to**|**Note**|
 |--------|--------|--------|--------|--------|--------|
 |**(1979) Rupan Sansei: Kariosutoro no Shiro**||||||
 |**(1984) Kaze no Tani no Naushika**||||||
