@@ -33,7 +33,7 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 https://anime.kioz.workers.dev/0:/The%20Ghibli%20Collection%20(presented%20by%20KiOZ)/
 
 ## Muxing
-Use [MKVToolNix](https://mkvtoolnix.download/)'s "Multiplexer" tab to combine/mux your encode with the relevant ".ass" sub file/s (required), all fonts (required).
+Use [MKVToolNix](https://mkvtoolnix.download/)'s "Multiplexer" tab to combine/mux your encode with the relevant ".ass" sub file (required), all fonts (required).
 
 ## Playback
 Highly recommended to use mpv for playback since it use [libass](https://github.com/libass/libass) as subtitle renderer. This is [official version](https://mpv.io/), but there are still GUI versions:
