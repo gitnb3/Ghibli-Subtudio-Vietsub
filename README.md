@@ -28,3 +28,5 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 |**(2013) Kaze Tachinu**||||||
 |**(2013) Kaguya-hime no Monogatari**||||||
 |**(2014) Omoide no Marnie**|1080p|Modified from Netflix|Major|||
+
+Download link: https://anime.kioz.workers.dev/0:/The%20Ghibli%20Collection%20(presented%20by%20KiOZ)/
